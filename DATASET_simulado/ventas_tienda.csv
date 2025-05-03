@@ -1,0 +1,501 @@
+order_id,date,product,category,quantity,price_per_unit,customer,region
+ORD1000,2024-06-25,Cama para gato,Descanso,3,27.71,Cliente_1,Sevilla
+ORD1001,2024-10-23,Rascador,Accesorios,10,34.09,Cliente_19,Bilbao
+ORD1002,2024-09-25,Pienso Premium,Alimentación,1,47.96,Cliente_23,Bilbao
+ORD1003,2024-03-12,Cama para gato,Descanso,3,41.01,Cliente_42,Bilbao
+ORD1004,2024-10-26,Snacks saludables,Alimentación,4,39.29,Cliente_52,Sevilla
+ORD1005,2024-09-29,Rascador,Accesorios,7,30.93,Cliente_97,Sevilla
+ORD1006,2024-10-26,Juguete para perro,Accesorios,4,24.82,Cliente_47,Bilbao
+ORD1007,2024-11-13,Snacks saludables,Alimentación,1,49.89,Cliente_42,Bilbao
+ORD1008,2024-08-22,Arena sanitaria,Higiene,7,29.6,Cliente_46,Barcelona
+ORD1009,2024-06-07,Snacks saludables,Alimentación,3,35.74,Cliente_26,Barcelona
+ORD1010,2024-03-30,Rascador,Accesorios,3,68.99,Cliente_95,Sevilla
+ORD1011,2024-11-21,Cama para gato,Descanso,7,25.13,Cliente_80,Barcelona
+ORD1012,2024-07-09,Pienso Premium,Alimentación,10,61.78,Cliente_91,Sevilla
+ORD1013,2024-09-16,Pienso Premium,Alimentación,9,69.47,Cliente_75,Sevilla
+ORD1014,2024-02-11,Pienso Premium,Alimentación,3,44.0,Cliente_29,Valencia
+ORD1015,2024-02-16,Snacks saludables,Alimentación,4,76.27,Cliente_91,Sevilla
+ORD1016,2024-09-01,Collar LED,Accesorios,4,12.67,Cliente_59,Barcelona
+ORD1017,2024-05-03,Rascador,Accesorios,7,70.95,Cliente_38,Bilbao
+ORD1018,2024-01-10,Collar LED,Accesorios,3,87.85,Cliente_5,Bilbao
+ORD1019,2024-02-16,Cama para gato,Descanso,7,99.98,Cliente_44,Sevilla
+ORD1020,2024-04-18,Collar LED,Accesorios,7,18.04,Cliente_52,Barcelona
+ORD1021,2024-09-17,Pienso Premium,Alimentación,5,89.25,Cliente_57,Valencia
+ORD1022,2024-10-02,Arena sanitaria,Higiene,8,30.13,Cliente_93,Bilbao
+ORD1023,2024-03-14,Cama para gato,Descanso,9,68.34,Cliente_50,Sevilla
+ORD1024,2024-05-14,Collar LED,Accesorios,2,36.87,Cliente_24,Madrid
+ORD1025,2024-09-14,Rascador,Accesorios,5,84.04,Cliente_43,Valencia
+ORD1026,2024-01-26,Cama para gato,Descanso,10,80.22,Cliente_51,Sevilla
+ORD1027,2024-04-04,Collar LED,Accesorios,8,30.24,Cliente_52,Barcelona
+ORD1028,2024-01-23,Snacks saludables,Alimentación,3,74.23,Cliente_75,Bilbao
+ORD1029,2024-07-02,Pienso Premium,Alimentación,1,85.08,Cliente_24,Madrid
+ORD1030,2024-04-28,Rascador,Accesorios,6,61.27,Cliente_35,Bilbao
+ORD1031,2024-08-19,Juguete para perro,Accesorios,10,30.39,Cliente_56,Sevilla
+ORD1032,2024-12-31,Arena sanitaria,Higiene,4,24.55,Cliente_4,Valencia
+ORD1033,2024-03-24,Snacks saludables,Alimentación,3,12.03,Cliente_7,Bilbao
+ORD1034,2024-10-17,Snacks saludables,Alimentación,3,12.57,Cliente_39,Valencia
+ORD1035,2024-02-06,Arena sanitaria,Higiene,5,15.76,Cliente_77,Valencia
+ORD1036,2024-02-02,Cama para gato,Descanso,8,36.74,Cliente_66,Madrid
+ORD1037,2024-01-10,Cama para gato,Descanso,10,89.26,Cliente_38,Madrid
+ORD1038,2024-03-31,Snacks saludables,Alimentación,10,14.48,Cliente_13,Sevilla
+ORD1039,2024-02-15,Collar LED,Accesorios,3,73.9,Cliente_47,Madrid
+ORD1040,2024-01-11,Arena sanitaria,Higiene,3,47.81,Cliente_4,Barcelona
+ORD1041,2024-09-18,Collar LED,Accesorios,10,72.71,Cliente_33,Barcelona
+ORD1042,2024-04-12,Cama para gato,Descanso,7,95.12,Cliente_44,Barcelona
+ORD1043,2024-06-07,Rascador,Accesorios,8,6.74,Cliente_65,Madrid
+ORD1044,2024-07-24,Snacks saludables,Alimentación,6,37.59,Cliente_99,Barcelona
+ORD1045,2024-08-30,Rascador,Accesorios,3,39.16,Cliente_72,Sevilla
+ORD1046,2024-05-06,Arena sanitaria,Higiene,5,51.1,Cliente_37,Barcelona
+ORD1047,2024-07-16,Juguete para perro,Accesorios,1,24.91,Cliente_61,Sevilla
+ORD1048,2024-01-21,Pienso Premium,Alimentación,2,66.86,Cliente_100,Bilbao
+ORD1049,2024-06-06,Collar LED,Accesorios,3,50.6,Cliente_79,Sevilla
+ORD1050,2024-05-10,Pienso Premium,Alimentación,8,8.23,Cliente_27,Sevilla
+ORD1051,2024-02-03,Collar LED,Accesorios,5,9.27,Cliente_40,Sevilla
+ORD1052,2024-12-20,Rascador,Accesorios,1,34.94,Cliente_46,Madrid
+ORD1053,2024-08-04,Cama para gato,Descanso,5,9.03,Cliente_47,Bilbao
+ORD1054,2024-12-20,Cama para gato,Descanso,7,82.34,Cliente_84,Madrid
+ORD1055,2024-11-13,Rascador,Accesorios,9,8.08,Cliente_44,Barcelona
+ORD1056,2024-01-08,Collar LED,Accesorios,6,94.37,Cliente_78,Sevilla
+ORD1057,2024-01-27,Rascador,Accesorios,9,36.73,Cliente_73,Sevilla
+ORD1058,2024-04-16,Cama para gato,Descanso,6,98.19,Cliente_16,Barcelona
+ORD1059,2024-11-12,Rascador,Accesorios,7,75.41,Cliente_32,Valencia
+ORD1060,2024-05-10,Cama para gato,Descanso,6,88.98,Cliente_21,Madrid
+ORD1061,2024-12-06,Snacks saludables,Alimentación,4,94.01,Cliente_9,Bilbao
+ORD1062,2024-10-05,Rascador,Accesorios,3,88.65,Cliente_82,Barcelona
+ORD1063,2024-12-01,Arena sanitaria,Higiene,10,85.02,Cliente_24,Madrid
+ORD1064,2024-05-28,Collar LED,Accesorios,6,15.72,Cliente_28,Valencia
+ORD1065,2024-08-29,Cama para gato,Descanso,4,63.32,Cliente_36,Madrid
+ORD1066,2024-05-26,Snacks saludables,Alimentación,8,21.97,Cliente_87,Sevilla
+ORD1067,2024-01-14,Collar LED,Accesorios,9,5.3,Cliente_73,Bilbao
+ORD1068,2024-03-14,Rascador,Accesorios,1,25.35,Cliente_67,Madrid
+ORD1069,2024-02-19,Rascador,Accesorios,7,8.22,Cliente_65,Madrid
+ORD1070,2024-01-26,Arena sanitaria,Higiene,4,73.23,Cliente_15,Madrid
+ORD1071,2024-05-22,Rascador,Accesorios,3,10.51,Cliente_32,Bilbao
+ORD1072,2024-09-27,Snacks saludables,Alimentación,1,37.0,Cliente_62,Sevilla
+ORD1073,2024-04-29,Rascador,Accesorios,10,75.92,Cliente_37,Barcelona
+ORD1074,2024-11-07,Snacks saludables,Alimentación,9,64.25,Cliente_37,Bilbao
+ORD1075,2024-07-15,Juguete para perro,Accesorios,2,96.0,Cliente_64,Sevilla
+ORD1076,2024-01-18,Pienso Premium,Alimentación,10,75.43,Cliente_20,Sevilla
+ORD1077,2024-01-05,Snacks saludables,Alimentación,5,51.63,Cliente_32,Bilbao
+ORD1078,2024-02-18,Arena sanitaria,Higiene,6,17.81,Cliente_29,Bilbao
+ORD1079,2024-05-15,Arena sanitaria,Higiene,2,18.48,Cliente_93,Valencia
+ORD1080,2024-11-13,Rascador,Accesorios,6,57.95,Cliente_65,Madrid
+ORD1081,2024-07-12,Juguete para perro,Accesorios,2,77.21,Cliente_89,Valencia
+ORD1082,2024-11-30,Rascador,Accesorios,3,86.49,Cliente_70,Bilbao
+ORD1083,2024-07-01,Cama para gato,Descanso,5,47.21,Cliente_91,Madrid
+ORD1084,2024-05-18,Juguete para perro,Accesorios,4,74.71,Cliente_18,Bilbao
+ORD1085,2024-09-22,Juguete para perro,Accesorios,9,90.35,Cliente_24,Barcelona
+ORD1086,2024-12-13,Arena sanitaria,Higiene,2,65.53,Cliente_10,Bilbao
+ORD1087,2024-07-29,Pienso Premium,Alimentación,8,68.24,Cliente_35,Madrid
+ORD1088,2024-04-18,Rascador,Accesorios,7,17.66,Cliente_98,Sevilla
+ORD1089,2024-11-01,Pienso Premium,Alimentación,7,85.03,Cliente_9,Sevilla
+ORD1090,2024-01-31,Rascador,Accesorios,10,34.24,Cliente_59,Bilbao
+ORD1091,2024-03-06,Juguete para perro,Accesorios,4,5.05,Cliente_10,Madrid
+ORD1092,2024-04-30,Rascador,Accesorios,6,15.93,Cliente_55,Barcelona
+ORD1093,2024-11-14,Rascador,Accesorios,6,51.24,Cliente_32,Bilbao
+ORD1094,2024-10-12,Snacks saludables,Alimentación,6,73.69,Cliente_68,Barcelona
+ORD1095,2024-03-31,Snacks saludables,Alimentación,7,80.09,Cliente_64,Barcelona
+ORD1096,2024-08-16,Rascador,Accesorios,4,52.0,Cliente_81,Madrid
+ORD1097,2024-02-19,Pienso Premium,Alimentación,8,50.33,Cliente_96,Barcelona
+ORD1098,2024-09-28,Snacks saludables,Alimentación,7,14.08,Cliente_73,Bilbao
+ORD1099,2024-07-18,Rascador,Accesorios,7,44.44,Cliente_68,Sevilla
+ORD1100,2024-01-12,Pienso Premium,Alimentación,9,45.93,Cliente_45,Valencia
+ORD1101,2024-08-20,Cama para gato,Descanso,2,91.86,Cliente_16,Sevilla
+ORD1102,2024-06-17,Juguete para perro,Accesorios,8,67.11,Cliente_8,Valencia
+ORD1103,2024-07-20,Cama para gato,Descanso,2,52.19,Cliente_13,Sevilla
+ORD1104,2024-04-03,Snacks saludables,Alimentación,4,13.27,Cliente_13,Valencia
+ORD1105,2024-11-01,Arena sanitaria,Higiene,2,80.53,Cliente_39,Sevilla
+ORD1106,2024-06-03,Pienso Premium,Alimentación,2,61.8,Cliente_19,Bilbao
+ORD1107,2024-11-23,Juguete para perro,Accesorios,6,86.06,Cliente_2,Sevilla
+ORD1108,2024-02-13,Collar LED,Accesorios,8,22.71,Cliente_79,Madrid
+ORD1109,2024-09-07,Rascador,Accesorios,1,19.24,Cliente_6,Bilbao
+ORD1110,2024-10-23,Cama para gato,Descanso,9,73.67,Cliente_80,Madrid
+ORD1111,2024-03-04,Arena sanitaria,Higiene,6,9.83,Cliente_63,Madrid
+ORD1112,2024-06-30,Pienso Premium,Alimentación,3,65.43,Cliente_32,Barcelona
+ORD1113,2024-05-27,Collar LED,Accesorios,5,50.49,Cliente_84,Madrid
+ORD1114,2024-06-06,Collar LED,Accesorios,3,48.95,Cliente_61,Sevilla
+ORD1115,2024-05-23,Collar LED,Accesorios,3,58.52,Cliente_64,Bilbao
+ORD1116,2024-06-11,Arena sanitaria,Higiene,3,19.97,Cliente_89,Bilbao
+ORD1117,2024-05-22,Snacks saludables,Alimentación,4,29.18,Cliente_27,Madrid
+ORD1118,2024-01-20,Juguete para perro,Accesorios,9,59.19,Cliente_48,Bilbao
+ORD1119,2024-10-26,Collar LED,Accesorios,9,39.21,Cliente_58,Sevilla
+ORD1120,2024-04-26,Collar LED,Accesorios,4,36.38,Cliente_44,Barcelona
+ORD1121,2024-08-09,Juguete para perro,Accesorios,5,29.09,Cliente_35,Valencia
+ORD1122,2024-01-04,Collar LED,Accesorios,3,97.82,Cliente_62,Madrid
+ORD1123,2024-09-18,Arena sanitaria,Higiene,4,18.22,Cliente_97,Madrid
+ORD1124,2024-01-10,Pienso Premium,Alimentación,5,20.44,Cliente_23,Sevilla
+ORD1125,2024-08-11,Pienso Premium,Alimentación,9,82.39,Cliente_38,Sevilla
+ORD1126,2024-11-26,Collar LED,Accesorios,3,30.18,Cliente_15,Barcelona
+ORD1127,2024-06-27,Snacks saludables,Alimentación,8,8.67,Cliente_80,Valencia
+ORD1128,2024-12-31,Arena sanitaria,Higiene,8,83.11,Cliente_71,Sevilla
+ORD1129,2024-05-23,Juguete para perro,Accesorios,4,62.31,Cliente_97,Barcelona
+ORD1130,2024-01-07,Arena sanitaria,Higiene,8,34.2,Cliente_54,Sevilla
+ORD1131,2024-04-27,Pienso Premium,Alimentación,10,53.85,Cliente_83,Bilbao
+ORD1132,2024-02-15,Juguete para perro,Accesorios,1,47.1,Cliente_96,Bilbao
+ORD1133,2024-12-03,Snacks saludables,Alimentación,2,63.77,Cliente_81,Sevilla
+ORD1134,2024-01-03,Cama para gato,Descanso,8,81.87,Cliente_1,Barcelona
+ORD1135,2024-11-03,Arena sanitaria,Higiene,4,14.45,Cliente_61,Bilbao
+ORD1136,2024-04-21,Rascador,Accesorios,6,41.51,Cliente_38,Madrid
+ORD1137,2024-03-02,Juguete para perro,Accesorios,9,28.52,Cliente_82,Madrid
+ORD1138,2024-06-13,Arena sanitaria,Higiene,6,5.5,Cliente_10,Madrid
+ORD1139,2024-02-05,Rascador,Accesorios,3,64.7,Cliente_20,Valencia
+ORD1140,2024-12-18,Juguete para perro,Accesorios,5,18.21,Cliente_43,Valencia
+ORD1141,2024-06-25,Rascador,Accesorios,9,81.0,Cliente_49,Sevilla
+ORD1142,2024-04-17,Cama para gato,Descanso,1,87.75,Cliente_99,Valencia
+ORD1143,2024-12-09,Juguete para perro,Accesorios,10,88.99,Cliente_5,Bilbao
+ORD1144,2024-12-28,Rascador,Accesorios,8,97.72,Cliente_54,Barcelona
+ORD1145,2024-05-27,Pienso Premium,Alimentación,4,32.13,Cliente_24,Barcelona
+ORD1146,2024-07-29,Collar LED,Accesorios,4,21.93,Cliente_39,Sevilla
+ORD1147,2024-07-12,Snacks saludables,Alimentación,4,28.62,Cliente_96,Barcelona
+ORD1148,2024-07-09,Juguete para perro,Accesorios,6,35.22,Cliente_78,Valencia
+ORD1149,2024-10-30,Snacks saludables,Alimentación,6,82.45,Cliente_3,Valencia
+ORD1150,2024-12-23,Juguete para perro,Accesorios,5,86.24,Cliente_54,Barcelona
+ORD1151,2024-03-20,Pienso Premium,Alimentación,5,49.93,Cliente_76,Sevilla
+ORD1152,2024-04-22,Snacks saludables,Alimentación,10,15.14,Cliente_37,Barcelona
+ORD1153,2024-11-08,Collar LED,Accesorios,10,48.83,Cliente_35,Bilbao
+ORD1154,2024-04-01,Arena sanitaria,Higiene,7,71.73,Cliente_92,Madrid
+ORD1155,2024-02-29,Cama para gato,Descanso,3,46.48,Cliente_48,Madrid
+ORD1156,2024-01-21,Snacks saludables,Alimentación,10,52.69,Cliente_29,Valencia
+ORD1157,2024-03-07,Juguete para perro,Accesorios,6,23.92,Cliente_32,Bilbao
+ORD1158,2024-01-06,Collar LED,Accesorios,10,78.29,Cliente_61,Bilbao
+ORD1159,2024-12-29,Cama para gato,Descanso,3,6.65,Cliente_60,Valencia
+ORD1160,2024-01-06,Pienso Premium,Alimentación,6,13.65,Cliente_98,Barcelona
+ORD1161,2024-07-19,Arena sanitaria,Higiene,4,54.13,Cliente_92,Madrid
+ORD1162,2024-10-05,Arena sanitaria,Higiene,8,97.55,Cliente_14,Barcelona
+ORD1163,2024-10-25,Rascador,Accesorios,6,73.86,Cliente_56,Barcelona
+ORD1164,2024-11-05,Collar LED,Accesorios,7,16.56,Cliente_13,Barcelona
+ORD1165,2024-07-17,Pienso Premium,Alimentación,2,52.04,Cliente_69,Bilbao
+ORD1166,2024-12-09,Cama para gato,Descanso,8,28.94,Cliente_30,Bilbao
+ORD1167,2024-09-08,Snacks saludables,Alimentación,5,29.4,Cliente_84,Barcelona
+ORD1168,2024-09-21,Collar LED,Accesorios,1,14.2,Cliente_70,Madrid
+ORD1169,2024-09-29,Snacks saludables,Alimentación,3,52.02,Cliente_42,Madrid
+ORD1170,2024-06-27,Cama para gato,Descanso,5,98.53,Cliente_26,Valencia
+ORD1171,2024-11-16,Juguete para perro,Accesorios,1,55.31,Cliente_71,Sevilla
+ORD1172,2024-09-11,Arena sanitaria,Higiene,8,79.21,Cliente_100,Madrid
+ORD1173,2024-07-10,Cama para gato,Descanso,8,11.21,Cliente_7,Barcelona
+ORD1174,2024-12-04,Snacks saludables,Alimentación,5,43.31,Cliente_70,Sevilla
+ORD1175,2024-12-20,Juguete para perro,Accesorios,7,12.04,Cliente_63,Sevilla
+ORD1176,2024-05-19,Snacks saludables,Alimentación,4,63.04,Cliente_19,Valencia
+ORD1177,2024-09-15,Arena sanitaria,Higiene,8,38.03,Cliente_91,Madrid
+ORD1178,2024-08-18,Collar LED,Accesorios,4,86.23,Cliente_68,Sevilla
+ORD1179,2024-04-28,Pienso Premium,Alimentación,6,31.91,Cliente_90,Sevilla
+ORD1180,2024-06-07,Juguete para perro,Accesorios,5,18.45,Cliente_48,Bilbao
+ORD1181,2024-02-22,Pienso Premium,Alimentación,4,83.35,Cliente_37,Sevilla
+ORD1182,2024-07-24,Collar LED,Accesorios,10,40.55,Cliente_22,Barcelona
+ORD1183,2024-10-18,Snacks saludables,Alimentación,2,99.6,Cliente_43,Valencia
+ORD1184,2024-04-19,Cama para gato,Descanso,7,84.38,Cliente_71,Sevilla
+ORD1185,2024-03-20,Pienso Premium,Alimentación,8,5.65,Cliente_1,Valencia
+ORD1186,2024-08-23,Collar LED,Accesorios,5,90.87,Cliente_33,Madrid
+ORD1187,2024-06-10,Rascador,Accesorios,6,38.57,Cliente_17,Valencia
+ORD1188,2024-10-20,Cama para gato,Descanso,1,6.15,Cliente_47,Bilbao
+ORD1189,2024-07-09,Rascador,Accesorios,9,46.82,Cliente_97,Bilbao
+ORD1190,2024-06-10,Rascador,Accesorios,10,9.06,Cliente_31,Bilbao
+ORD1191,2024-09-13,Juguete para perro,Accesorios,3,57.33,Cliente_9,Bilbao
+ORD1192,2024-03-25,Rascador,Accesorios,8,35.34,Cliente_13,Sevilla
+ORD1193,2024-03-01,Arena sanitaria,Higiene,6,83.26,Cliente_86,Sevilla
+ORD1194,2024-10-03,Arena sanitaria,Higiene,6,70.33,Cliente_42,Madrid
+ORD1195,2024-02-25,Pienso Premium,Alimentación,3,10.73,Cliente_17,Bilbao
+ORD1196,2024-12-08,Pienso Premium,Alimentación,2,65.73,Cliente_64,Valencia
+ORD1197,2024-05-31,Rascador,Accesorios,10,30.14,Cliente_11,Valencia
+ORD1198,2024-09-03,Snacks saludables,Alimentación,10,52.91,Cliente_57,Valencia
+ORD1199,2024-04-14,Pienso Premium,Alimentación,2,46.5,Cliente_54,Valencia
+ORD1200,2024-09-10,Pienso Premium,Alimentación,9,16.1,Cliente_36,Barcelona
+ORD1201,2024-10-29,Pienso Premium,Alimentación,8,65.02,Cliente_36,Barcelona
+ORD1202,2024-05-03,Snacks saludables,Alimentación,3,49.47,Cliente_75,Sevilla
+ORD1203,2024-03-17,Juguete para perro,Accesorios,7,60.29,Cliente_54,Bilbao
+ORD1204,2024-10-15,Collar LED,Accesorios,6,33.59,Cliente_5,Madrid
+ORD1205,2024-06-03,Pienso Premium,Alimentación,6,87.05,Cliente_40,Valencia
+ORD1206,2024-06-13,Pienso Premium,Alimentación,9,39.53,Cliente_58,Madrid
+ORD1207,2024-11-13,Juguete para perro,Accesorios,7,21.62,Cliente_73,Barcelona
+ORD1208,2024-05-30,Snacks saludables,Alimentación,7,82.57,Cliente_18,Barcelona
+ORD1209,2024-02-28,Arena sanitaria,Higiene,9,98.2,Cliente_79,Valencia
+ORD1210,2024-12-29,Pienso Premium,Alimentación,10,99.79,Cliente_78,Barcelona
+ORD1211,2024-11-03,Cama para gato,Descanso,9,86.32,Cliente_60,Valencia
+ORD1212,2024-10-07,Pienso Premium,Alimentación,8,93.41,Cliente_8,Valencia
+ORD1213,2024-09-15,Cama para gato,Descanso,10,14.18,Cliente_46,Sevilla
+ORD1214,2024-10-31,Juguete para perro,Accesorios,1,33.14,Cliente_77,Barcelona
+ORD1215,2024-06-13,Arena sanitaria,Higiene,3,79.16,Cliente_87,Barcelona
+ORD1216,2024-06-09,Arena sanitaria,Higiene,7,28.59,Cliente_92,Sevilla
+ORD1217,2024-09-13,Cama para gato,Descanso,2,30.19,Cliente_71,Barcelona
+ORD1218,2024-08-15,Snacks saludables,Alimentación,4,90.38,Cliente_12,Valencia
+ORD1219,2024-08-08,Cama para gato,Descanso,9,7.05,Cliente_23,Madrid
+ORD1220,2024-08-19,Snacks saludables,Alimentación,4,52.71,Cliente_83,Sevilla
+ORD1221,2024-12-21,Juguete para perro,Accesorios,4,32.31,Cliente_51,Madrid
+ORD1222,2024-06-28,Cama para gato,Descanso,5,40.21,Cliente_34,Barcelona
+ORD1223,2024-03-05,Rascador,Accesorios,4,27.28,Cliente_72,Bilbao
+ORD1224,2024-05-07,Snacks saludables,Alimentación,10,11.59,Cliente_60,Madrid
+ORD1225,2024-10-06,Juguete para perro,Accesorios,8,15.14,Cliente_12,Madrid
+ORD1226,2024-09-25,Rascador,Accesorios,10,74.2,Cliente_64,Valencia
+ORD1227,2024-02-08,Rascador,Accesorios,5,58.19,Cliente_80,Barcelona
+ORD1228,2024-04-16,Collar LED,Accesorios,7,27.18,Cliente_7,Valencia
+ORD1229,2024-06-05,Rascador,Accesorios,7,38.73,Cliente_57,Sevilla
+ORD1230,2024-10-12,Collar LED,Accesorios,1,95.67,Cliente_12,Madrid
+ORD1231,2024-07-08,Pienso Premium,Alimentación,2,43.36,Cliente_98,Valencia
+ORD1232,2024-04-25,Arena sanitaria,Higiene,1,88.22,Cliente_4,Barcelona
+ORD1233,2024-01-16,Rascador,Accesorios,9,53.06,Cliente_51,Madrid
+ORD1234,2024-06-15,Juguete para perro,Accesorios,1,70.75,Cliente_47,Barcelona
+ORD1235,2024-04-06,Snacks saludables,Alimentación,3,11.71,Cliente_85,Madrid
+ORD1236,2024-10-12,Rascador,Accesorios,4,8.47,Cliente_61,Barcelona
+ORD1237,2024-03-03,Collar LED,Accesorios,4,45.54,Cliente_81,Sevilla
+ORD1238,2024-10-01,Cama para gato,Descanso,2,44.87,Cliente_20,Bilbao
+ORD1239,2024-09-24,Snacks saludables,Alimentación,10,7.79,Cliente_5,Sevilla
+ORD1240,2024-02-25,Arena sanitaria,Higiene,9,62.04,Cliente_53,Madrid
+ORD1241,2024-10-30,Arena sanitaria,Higiene,4,90.67,Cliente_65,Barcelona
+ORD1242,2024-03-30,Pienso Premium,Alimentación,6,67.32,Cliente_16,Madrid
+ORD1243,2024-02-14,Arena sanitaria,Higiene,3,15.37,Cliente_10,Madrid
+ORD1244,2024-12-28,Juguete para perro,Accesorios,8,33.47,Cliente_25,Sevilla
+ORD1245,2024-07-05,Rascador,Accesorios,1,83.9,Cliente_51,Valencia
+ORD1246,2024-12-27,Pienso Premium,Alimentación,7,96.19,Cliente_37,Sevilla
+ORD1247,2024-02-27,Cama para gato,Descanso,3,42.94,Cliente_53,Valencia
+ORD1248,2024-03-26,Rascador,Accesorios,5,11.61,Cliente_88,Madrid
+ORD1249,2024-10-03,Rascador,Accesorios,8,8.12,Cliente_3,Madrid
+ORD1250,2024-07-30,Cama para gato,Descanso,1,30.91,Cliente_79,Barcelona
+ORD1251,2024-04-29,Rascador,Accesorios,2,51.15,Cliente_50,Bilbao
+ORD1252,2024-09-13,Pienso Premium,Alimentación,8,81.49,Cliente_14,Valencia
+ORD1253,2024-07-30,Juguete para perro,Accesorios,5,71.38,Cliente_66,Sevilla
+ORD1254,2024-11-16,Juguete para perro,Accesorios,2,19.66,Cliente_46,Bilbao
+ORD1255,2024-11-10,Pienso Premium,Alimentación,4,30.58,Cliente_9,Bilbao
+ORD1256,2024-12-01,Cama para gato,Descanso,2,88.0,Cliente_29,Bilbao
+ORD1257,2024-12-16,Snacks saludables,Alimentación,3,5.15,Cliente_30,Barcelona
+ORD1258,2024-07-16,Arena sanitaria,Higiene,6,45.6,Cliente_71,Valencia
+ORD1259,2024-12-05,Snacks saludables,Alimentación,2,99.12,Cliente_97,Valencia
+ORD1260,2024-03-13,Snacks saludables,Alimentación,5,6.25,Cliente_57,Madrid
+ORD1261,2024-09-28,Arena sanitaria,Higiene,1,39.39,Cliente_24,Sevilla
+ORD1262,2024-06-25,Snacks saludables,Alimentación,1,74.66,Cliente_37,Bilbao
+ORD1263,2024-11-19,Cama para gato,Descanso,8,14.51,Cliente_69,Madrid
+ORD1264,2024-09-26,Pienso Premium,Alimentación,3,83.77,Cliente_32,Sevilla
+ORD1265,2024-04-28,Arena sanitaria,Higiene,5,14.18,Cliente_48,Madrid
+ORD1266,2024-11-06,Pienso Premium,Alimentación,8,21.92,Cliente_53,Valencia
+ORD1267,2024-07-20,Collar LED,Accesorios,4,64.15,Cliente_62,Barcelona
+ORD1268,2024-01-23,Rascador,Accesorios,10,60.08,Cliente_55,Madrid
+ORD1269,2024-01-19,Collar LED,Accesorios,6,8.39,Cliente_43,Sevilla
+ORD1270,2024-09-06,Juguete para perro,Accesorios,9,88.6,Cliente_1,Bilbao
+ORD1271,2024-06-21,Juguete para perro,Accesorios,9,42.73,Cliente_6,Barcelona
+ORD1272,2024-07-22,Cama para gato,Descanso,5,64.14,Cliente_49,Barcelona
+ORD1273,2024-06-28,Collar LED,Accesorios,9,8.95,Cliente_94,Bilbao
+ORD1274,2024-04-15,Cama para gato,Descanso,8,97.4,Cliente_12,Madrid
+ORD1275,2024-09-16,Pienso Premium,Alimentación,2,24.98,Cliente_53,Sevilla
+ORD1276,2024-05-02,Collar LED,Accesorios,6,46.5,Cliente_29,Madrid
+ORD1277,2024-04-06,Cama para gato,Descanso,4,93.48,Cliente_65,Valencia
+ORD1278,2024-11-14,Pienso Premium,Alimentación,10,14.23,Cliente_18,Bilbao
+ORD1279,2024-07-17,Collar LED,Accesorios,1,62.52,Cliente_4,Valencia
+ORD1280,2024-02-01,Arena sanitaria,Higiene,9,37.78,Cliente_80,Bilbao
+ORD1281,2024-04-22,Collar LED,Accesorios,4,49.22,Cliente_59,Sevilla
+ORD1282,2024-04-16,Cama para gato,Descanso,5,14.94,Cliente_41,Valencia
+ORD1283,2024-01-26,Rascador,Accesorios,1,7.1,Cliente_44,Valencia
+ORD1284,2024-09-01,Cama para gato,Descanso,2,37.12,Cliente_88,Bilbao
+ORD1285,2024-11-18,Juguete para perro,Accesorios,5,27.32,Cliente_89,Sevilla
+ORD1286,2024-02-07,Juguete para perro,Accesorios,10,94.0,Cliente_83,Valencia
+ORD1287,2024-06-08,Juguete para perro,Accesorios,4,11.14,Cliente_12,Barcelona
+ORD1288,2024-01-21,Rascador,Accesorios,9,70.54,Cliente_64,Barcelona
+ORD1289,2024-09-07,Snacks saludables,Alimentación,2,7.2,Cliente_50,Barcelona
+ORD1290,2024-01-16,Juguete para perro,Accesorios,1,12.08,Cliente_71,Madrid
+ORD1291,2024-09-24,Collar LED,Accesorios,6,7.44,Cliente_69,Barcelona
+ORD1292,2024-06-07,Collar LED,Accesorios,10,56.79,Cliente_67,Valencia
+ORD1293,2024-08-25,Juguete para perro,Accesorios,9,53.36,Cliente_47,Barcelona
+ORD1294,2024-10-06,Rascador,Accesorios,3,11.95,Cliente_42,Barcelona
+ORD1295,2024-04-23,Snacks saludables,Alimentación,5,47.29,Cliente_76,Sevilla
+ORD1296,2024-09-12,Snacks saludables,Alimentación,6,93.65,Cliente_55,Madrid
+ORD1297,2024-12-16,Rascador,Accesorios,2,41.25,Cliente_7,Valencia
+ORD1298,2024-06-29,Arena sanitaria,Higiene,3,52.03,Cliente_56,Madrid
+ORD1299,2024-07-07,Rascador,Accesorios,1,21.84,Cliente_28,Bilbao
+ORD1300,2024-07-25,Rascador,Accesorios,6,6.25,Cliente_19,Valencia
+ORD1301,2024-10-12,Pienso Premium,Alimentación,5,72.55,Cliente_38,Madrid
+ORD1302,2024-10-14,Pienso Premium,Alimentación,10,94.55,Cliente_68,Madrid
+ORD1303,2024-04-14,Arena sanitaria,Higiene,6,70.84,Cliente_11,Sevilla
+ORD1304,2024-03-21,Juguete para perro,Accesorios,1,74.07,Cliente_23,Barcelona
+ORD1305,2024-06-18,Rascador,Accesorios,2,65.64,Cliente_18,Sevilla
+ORD1306,2024-01-07,Rascador,Accesorios,7,5.01,Cliente_81,Bilbao
+ORD1307,2024-06-23,Collar LED,Accesorios,7,85.13,Cliente_19,Valencia
+ORD1308,2024-04-04,Cama para gato,Descanso,7,95.18,Cliente_8,Sevilla
+ORD1309,2024-05-16,Arena sanitaria,Higiene,10,43.28,Cliente_46,Sevilla
+ORD1310,2024-04-12,Juguete para perro,Accesorios,3,81.25,Cliente_2,Barcelona
+ORD1311,2024-07-11,Arena sanitaria,Higiene,2,92.5,Cliente_63,Valencia
+ORD1312,2024-10-09,Arena sanitaria,Higiene,7,10.75,Cliente_97,Valencia
+ORD1313,2024-03-16,Collar LED,Accesorios,4,64.9,Cliente_16,Valencia
+ORD1314,2024-02-18,Collar LED,Accesorios,8,59.78,Cliente_100,Barcelona
+ORD1315,2024-12-05,Rascador,Accesorios,10,46.53,Cliente_1,Madrid
+ORD1316,2024-08-15,Pienso Premium,Alimentación,3,98.89,Cliente_77,Barcelona
+ORD1317,2024-03-20,Pienso Premium,Alimentación,1,34.11,Cliente_98,Barcelona
+ORD1318,2024-03-12,Collar LED,Accesorios,1,96.67,Cliente_62,Sevilla
+ORD1319,2024-04-18,Rascador,Accesorios,3,98.26,Cliente_91,Barcelona
+ORD1320,2024-12-31,Juguete para perro,Accesorios,6,72.6,Cliente_52,Sevilla
+ORD1321,2024-08-13,Snacks saludables,Alimentación,2,57.52,Cliente_43,Sevilla
+ORD1322,2024-04-08,Rascador,Accesorios,5,41.5,Cliente_28,Barcelona
+ORD1323,2024-11-29,Rascador,Accesorios,6,30.36,Cliente_70,Bilbao
+ORD1324,2024-04-11,Snacks saludables,Alimentación,7,68.67,Cliente_29,Sevilla
+ORD1325,2024-02-12,Arena sanitaria,Higiene,8,94.93,Cliente_66,Valencia
+ORD1326,2024-09-09,Rascador,Accesorios,4,93.04,Cliente_2,Sevilla
+ORD1327,2024-05-03,Collar LED,Accesorios,7,95.58,Cliente_59,Barcelona
+ORD1328,2024-07-28,Snacks saludables,Alimentación,1,43.58,Cliente_13,Barcelona
+ORD1329,2024-07-15,Pienso Premium,Alimentación,1,48.61,Cliente_17,Bilbao
+ORD1330,2024-12-08,Collar LED,Accesorios,3,7.84,Cliente_25,Barcelona
+ORD1331,2024-02-25,Collar LED,Accesorios,2,61.0,Cliente_73,Sevilla
+ORD1332,2024-02-02,Juguete para perro,Accesorios,2,91.08,Cliente_89,Bilbao
+ORD1333,2024-03-15,Arena sanitaria,Higiene,10,6.06,Cliente_15,Bilbao
+ORD1334,2024-10-01,Collar LED,Accesorios,2,43.59,Cliente_28,Bilbao
+ORD1335,2024-05-24,Juguete para perro,Accesorios,4,23.07,Cliente_1,Bilbao
+ORD1336,2024-04-14,Cama para gato,Descanso,10,47.24,Cliente_4,Madrid
+ORD1337,2024-02-07,Collar LED,Accesorios,2,79.66,Cliente_92,Madrid
+ORD1338,2024-09-25,Collar LED,Accesorios,6,80.35,Cliente_82,Bilbao
+ORD1339,2024-05-31,Collar LED,Accesorios,8,45.73,Cliente_26,Sevilla
+ORD1340,2024-12-16,Juguete para perro,Accesorios,1,40.6,Cliente_11,Bilbao
+ORD1341,2024-10-28,Snacks saludables,Alimentación,10,33.89,Cliente_82,Sevilla
+ORD1342,2024-10-04,Collar LED,Accesorios,3,80.4,Cliente_5,Bilbao
+ORD1343,2024-04-06,Snacks saludables,Alimentación,10,57.78,Cliente_23,Madrid
+ORD1344,2024-01-13,Pienso Premium,Alimentación,3,32.98,Cliente_1,Barcelona
+ORD1345,2024-07-08,Collar LED,Accesorios,5,98.02,Cliente_95,Valencia
+ORD1346,2024-01-13,Juguete para perro,Accesorios,6,73.09,Cliente_35,Madrid
+ORD1347,2024-02-19,Collar LED,Accesorios,9,84.33,Cliente_70,Valencia
+ORD1348,2024-10-30,Pienso Premium,Alimentación,5,53.8,Cliente_11,Sevilla
+ORD1349,2024-12-06,Snacks saludables,Alimentación,7,34.21,Cliente_46,Barcelona
+ORD1350,2024-07-24,Collar LED,Accesorios,6,5.15,Cliente_63,Valencia
+ORD1351,2024-03-30,Cama para gato,Descanso,1,44.07,Cliente_65,Madrid
+ORD1352,2024-03-24,Juguete para perro,Accesorios,2,37.69,Cliente_68,Sevilla
+ORD1353,2024-05-07,Pienso Premium,Alimentación,5,25.09,Cliente_39,Madrid
+ORD1354,2024-07-26,Arena sanitaria,Higiene,3,57.05,Cliente_20,Sevilla
+ORD1355,2024-07-08,Rascador,Accesorios,4,31.19,Cliente_23,Valencia
+ORD1356,2024-12-03,Arena sanitaria,Higiene,10,12.32,Cliente_94,Bilbao
+ORD1357,2024-10-14,Cama para gato,Descanso,5,62.24,Cliente_11,Bilbao
+ORD1358,2024-11-05,Pienso Premium,Alimentación,2,58.56,Cliente_82,Barcelona
+ORD1359,2024-06-13,Cama para gato,Descanso,8,47.62,Cliente_6,Barcelona
+ORD1360,2024-03-30,Pienso Premium,Alimentación,9,19.69,Cliente_94,Sevilla
+ORD1361,2024-02-14,Cama para gato,Descanso,6,94.29,Cliente_97,Barcelona
+ORD1362,2024-01-22,Collar LED,Accesorios,9,5.16,Cliente_76,Bilbao
+ORD1363,2024-01-07,Rascador,Accesorios,2,65.01,Cliente_36,Valencia
+ORD1364,2024-11-09,Pienso Premium,Alimentación,10,52.71,Cliente_70,Barcelona
+ORD1365,2024-08-11,Juguete para perro,Accesorios,1,98.7,Cliente_60,Sevilla
+ORD1366,2024-10-24,Snacks saludables,Alimentación,6,77.05,Cliente_21,Bilbao
+ORD1367,2024-05-18,Arena sanitaria,Higiene,6,52.91,Cliente_71,Valencia
+ORD1368,2024-12-15,Collar LED,Accesorios,9,80.74,Cliente_12,Sevilla
+ORD1369,2024-02-06,Arena sanitaria,Higiene,9,34.81,Cliente_85,Barcelona
+ORD1370,2024-01-17,Cama para gato,Descanso,7,18.99,Cliente_100,Valencia
+ORD1371,2024-12-24,Snacks saludables,Alimentación,10,17.72,Cliente_84,Sevilla
+ORD1372,2024-12-25,Arena sanitaria,Higiene,1,6.03,Cliente_62,Madrid
+ORD1373,2024-05-04,Pienso Premium,Alimentación,3,91.71,Cliente_35,Sevilla
+ORD1374,2024-03-12,Snacks saludables,Alimentación,4,71.78,Cliente_27,Madrid
+ORD1375,2024-02-27,Juguete para perro,Accesorios,4,23.17,Cliente_39,Bilbao
+ORD1376,2024-04-03,Juguete para perro,Accesorios,1,15.96,Cliente_30,Bilbao
+ORD1377,2024-09-14,Pienso Premium,Alimentación,3,20.32,Cliente_19,Bilbao
+ORD1378,2024-09-01,Snacks saludables,Alimentación,10,60.78,Cliente_50,Valencia
+ORD1379,2024-03-30,Pienso Premium,Alimentación,3,76.65,Cliente_40,Madrid
+ORD1380,2024-11-29,Juguete para perro,Accesorios,1,48.22,Cliente_68,Valencia
+ORD1381,2024-09-18,Collar LED,Accesorios,10,20.19,Cliente_91,Valencia
+ORD1382,2024-11-24,Arena sanitaria,Higiene,7,93.21,Cliente_56,Valencia
+ORD1383,2024-01-29,Juguete para perro,Accesorios,2,48.43,Cliente_3,Bilbao
+ORD1384,2024-01-21,Rascador,Accesorios,9,35.25,Cliente_10,Barcelona
+ORD1385,2024-06-17,Snacks saludables,Alimentación,2,31.72,Cliente_59,Bilbao
+ORD1386,2024-08-08,Arena sanitaria,Higiene,4,32.32,Cliente_17,Valencia
+ORD1387,2024-01-13,Arena sanitaria,Higiene,7,22.83,Cliente_65,Sevilla
+ORD1388,2024-11-06,Collar LED,Accesorios,8,31.04,Cliente_85,Madrid
+ORD1389,2024-03-10,Snacks saludables,Alimentación,8,86.79,Cliente_93,Bilbao
+ORD1390,2024-04-18,Cama para gato,Descanso,2,37.92,Cliente_12,Sevilla
+ORD1391,2024-05-07,Juguete para perro,Accesorios,8,97.03,Cliente_17,Bilbao
+ORD1392,2024-06-16,Cama para gato,Descanso,8,64.42,Cliente_68,Valencia
+ORD1393,2024-08-22,Juguete para perro,Accesorios,7,75.53,Cliente_44,Sevilla
+ORD1394,2024-07-31,Rascador,Accesorios,10,53.44,Cliente_65,Barcelona
+ORD1395,2024-08-03,Rascador,Accesorios,7,31.41,Cliente_66,Barcelona
+ORD1396,2024-08-29,Snacks saludables,Alimentación,1,45.76,Cliente_34,Barcelona
+ORD1397,2024-10-28,Juguete para perro,Accesorios,1,81.51,Cliente_59,Bilbao
+ORD1398,2024-01-24,Cama para gato,Descanso,7,68.6,Cliente_25,Valencia
+ORD1399,2024-09-06,Arena sanitaria,Higiene,1,20.48,Cliente_73,Sevilla
+ORD1400,2024-03-25,Snacks saludables,Alimentación,6,59.73,Cliente_39,Sevilla
+ORD1401,2024-09-10,Arena sanitaria,Higiene,2,37.08,Cliente_1,Barcelona
+ORD1402,2024-01-25,Juguete para perro,Accesorios,4,74.25,Cliente_74,Valencia
+ORD1403,2024-05-20,Pienso Premium,Alimentación,7,64.16,Cliente_71,Madrid
+ORD1404,2024-10-06,Collar LED,Accesorios,2,23.69,Cliente_56,Sevilla
+ORD1405,2024-02-15,Pienso Premium,Alimentación,9,37.08,Cliente_4,Valencia
+ORD1406,2024-12-02,Juguete para perro,Accesorios,6,49.17,Cliente_18,Madrid
+ORD1407,2024-11-06,Rascador,Accesorios,7,71.91,Cliente_61,Sevilla
+ORD1408,2024-03-19,Rascador,Accesorios,8,28.67,Cliente_87,Bilbao
+ORD1409,2024-10-29,Collar LED,Accesorios,6,12.28,Cliente_11,Valencia
+ORD1410,2024-04-19,Snacks saludables,Alimentación,7,11.6,Cliente_95,Barcelona
+ORD1411,2024-08-29,Cama para gato,Descanso,2,84.68,Cliente_8,Madrid
+ORD1412,2024-06-14,Collar LED,Accesorios,7,47.31,Cliente_86,Valencia
+ORD1413,2024-12-01,Rascador,Accesorios,10,99.12,Cliente_5,Bilbao
+ORD1414,2024-10-14,Snacks saludables,Alimentación,4,39.59,Cliente_82,Barcelona
+ORD1415,2024-04-08,Rascador,Accesorios,1,50.38,Cliente_84,Bilbao
+ORD1416,2024-01-02,Juguete para perro,Accesorios,5,92.16,Cliente_74,Sevilla
+ORD1417,2024-06-23,Pienso Premium,Alimentación,1,59.81,Cliente_1,Bilbao
+ORD1418,2024-02-04,Arena sanitaria,Higiene,9,52.61,Cliente_19,Barcelona
+ORD1419,2024-04-11,Collar LED,Accesorios,8,58.2,Cliente_58,Bilbao
+ORD1420,2024-02-09,Cama para gato,Descanso,8,78.89,Cliente_7,Sevilla
+ORD1421,2024-03-17,Snacks saludables,Alimentación,2,93.5,Cliente_85,Barcelona
+ORD1422,2024-05-27,Snacks saludables,Alimentación,9,63.6,Cliente_85,Madrid
+ORD1423,2024-03-03,Rascador,Accesorios,1,69.53,Cliente_65,Sevilla
+ORD1424,2024-10-14,Collar LED,Accesorios,5,33.38,Cliente_60,Bilbao
+ORD1425,2024-05-06,Collar LED,Accesorios,7,66.42,Cliente_55,Barcelona
+ORD1426,2024-02-22,Juguete para perro,Accesorios,1,29.14,Cliente_19,Bilbao
+ORD1427,2024-06-06,Cama para gato,Descanso,9,16.94,Cliente_28,Valencia
+ORD1428,2024-05-30,Snacks saludables,Alimentación,3,56.1,Cliente_54,Valencia
+ORD1429,2024-05-10,Collar LED,Accesorios,7,59.17,Cliente_69,Madrid
+ORD1430,2024-11-16,Pienso Premium,Alimentación,1,90.96,Cliente_31,Valencia
+ORD1431,2024-11-13,Rascador,Accesorios,5,93.27,Cliente_55,Bilbao
+ORD1432,2024-06-17,Rascador,Accesorios,4,90.34,Cliente_54,Barcelona
+ORD1433,2024-03-08,Pienso Premium,Alimentación,9,42.66,Cliente_52,Madrid
+ORD1434,2024-04-17,Collar LED,Accesorios,2,32.83,Cliente_5,Valencia
+ORD1435,2024-06-29,Rascador,Accesorios,8,30.23,Cliente_81,Valencia
+ORD1436,2024-03-12,Rascador,Accesorios,9,53.91,Cliente_73,Madrid
+ORD1437,2024-12-14,Arena sanitaria,Higiene,10,11.43,Cliente_14,Sevilla
+ORD1438,2024-07-02,Rascador,Accesorios,4,50.0,Cliente_66,Barcelona
+ORD1439,2024-04-28,Collar LED,Accesorios,8,31.03,Cliente_37,Bilbao
+ORD1440,2024-10-15,Rascador,Accesorios,7,87.43,Cliente_68,Valencia
+ORD1441,2024-02-02,Rascador,Accesorios,10,13.98,Cliente_42,Bilbao
+ORD1442,2024-05-25,Pienso Premium,Alimentación,3,57.92,Cliente_99,Madrid
+ORD1443,2024-07-01,Rascador,Accesorios,1,58.78,Cliente_21,Bilbao
+ORD1444,2024-05-16,Collar LED,Accesorios,3,9.26,Cliente_54,Sevilla
+ORD1445,2024-06-06,Pienso Premium,Alimentación,6,86.89,Cliente_30,Sevilla
+ORD1446,2024-02-15,Juguete para perro,Accesorios,1,79.67,Cliente_39,Barcelona
+ORD1447,2024-03-13,Pienso Premium,Alimentación,4,43.71,Cliente_14,Bilbao
+ORD1448,2024-06-07,Rascador,Accesorios,3,10.9,Cliente_23,Madrid
+ORD1449,2024-10-11,Juguete para perro,Accesorios,5,70.47,Cliente_17,Sevilla
+ORD1450,2024-05-06,Cama para gato,Descanso,10,66.77,Cliente_8,Madrid
+ORD1451,2024-11-10,Pienso Premium,Alimentación,3,48.7,Cliente_73,Sevilla
+ORD1452,2024-03-01,Pienso Premium,Alimentación,5,20.72,Cliente_52,Barcelona
+ORD1453,2024-12-18,Arena sanitaria,Higiene,3,12.59,Cliente_62,Sevilla
+ORD1454,2024-11-16,Pienso Premium,Alimentación,10,96.31,Cliente_27,Madrid
+ORD1455,2024-02-12,Arena sanitaria,Higiene,3,56.77,Cliente_5,Madrid
+ORD1456,2024-01-10,Cama para gato,Descanso,10,38.9,Cliente_25,Bilbao
+ORD1457,2024-06-12,Cama para gato,Descanso,3,83.78,Cliente_87,Barcelona
+ORD1458,2024-03-27,Rascador,Accesorios,5,87.2,Cliente_51,Bilbao
+ORD1459,2024-11-29,Rascador,Accesorios,3,28.64,Cliente_28,Valencia
+ORD1460,2024-12-15,Pienso Premium,Alimentación,9,94.58,Cliente_82,Madrid
+ORD1461,2024-01-14,Arena sanitaria,Higiene,1,50.77,Cliente_50,Barcelona
+ORD1462,2024-08-17,Collar LED,Accesorios,10,23.24,Cliente_52,Valencia
+ORD1463,2024-05-16,Arena sanitaria,Higiene,6,57.21,Cliente_53,Madrid
+ORD1464,2024-06-03,Rascador,Accesorios,6,35.86,Cliente_13,Valencia
+ORD1465,2024-02-27,Juguete para perro,Accesorios,3,89.98,Cliente_63,Madrid
+ORD1466,2024-11-03,Juguete para perro,Accesorios,10,88.68,Cliente_37,Sevilla
+ORD1467,2024-11-01,Pienso Premium,Alimentación,3,42.51,Cliente_92,Sevilla
+ORD1468,2024-11-03,Cama para gato,Descanso,9,5.15,Cliente_75,Sevilla
+ORD1469,2024-11-26,Rascador,Accesorios,2,32.11,Cliente_7,Valencia
+ORD1470,2024-05-06,Pienso Premium,Alimentación,6,54.34,Cliente_33,Bilbao
+ORD1471,2024-11-26,Rascador,Accesorios,7,41.53,Cliente_25,Barcelona
+ORD1472,2024-09-16,Cama para gato,Descanso,7,94.94,Cliente_59,Sevilla
+ORD1473,2024-12-14,Collar LED,Accesorios,1,85.11,Cliente_96,Barcelona
+ORD1474,2024-07-11,Snacks saludables,Alimentación,4,89.59,Cliente_78,Valencia
+ORD1475,2024-08-17,Snacks saludables,Alimentación,4,93.64,Cliente_35,Sevilla
+ORD1476,2024-07-03,Arena sanitaria,Higiene,9,11.02,Cliente_31,Sevilla
+ORD1477,2024-05-20,Juguete para perro,Accesorios,9,20.67,Cliente_25,Madrid
+ORD1478,2024-08-26,Juguete para perro,Accesorios,10,88.6,Cliente_37,Barcelona
+ORD1479,2024-03-29,Snacks saludables,Alimentación,10,5.06,Cliente_60,Valencia
+ORD1480,2024-11-19,Arena sanitaria,Higiene,1,54.05,Cliente_52,Sevilla
+ORD1481,2024-07-15,Cama para gato,Descanso,8,28.58,Cliente_5,Madrid
+ORD1482,2024-10-19,Juguete para perro,Accesorios,2,83.43,Cliente_10,Bilbao
+ORD1483,2024-03-21,Arena sanitaria,Higiene,3,5.43,Cliente_42,Bilbao
+ORD1484,2024-05-11,Pienso Premium,Alimentación,5,80.95,Cliente_47,Bilbao
+ORD1485,2024-03-22,Rascador,Accesorios,2,49.79,Cliente_4,Valencia
+ORD1486,2024-04-20,Pienso Premium,Alimentación,6,42.77,Cliente_56,Bilbao
+ORD1487,2024-04-02,Cama para gato,Descanso,7,83.51,Cliente_92,Bilbao
+ORD1488,2024-10-29,Cama para gato,Descanso,10,78.16,Cliente_28,Sevilla
+ORD1489,2024-06-09,Snacks saludables,Alimentación,8,54.68,Cliente_12,Valencia
+ORD1490,2024-10-02,Snacks saludables,Alimentación,8,81.84,Cliente_80,Bilbao
+ORD1491,2024-08-10,Snacks saludables,Alimentación,4,88.88,Cliente_37,Barcelona
+ORD1492,2024-02-13,Arena sanitaria,Higiene,3,63.43,Cliente_7,Valencia
+ORD1493,2024-11-30,Juguete para perro,Accesorios,6,47.42,Cliente_34,Bilbao
+ORD1494,2024-06-03,Arena sanitaria,Higiene,6,85.89,Cliente_48,Barcelona
+ORD1495,2024-09-26,Juguete para perro,Accesorios,5,32.15,Cliente_37,Sevilla
+ORD1496,2024-09-10,Snacks saludables,Alimentación,1,76.76,Cliente_83,Valencia
+ORD1497,2024-03-24,Snacks saludables,Alimentación,8,22.58,Cliente_100,Bilbao
+ORD1498,2024-09-17,Snacks saludables,Alimentación,4,49.87,Cliente_56,Madrid
+ORD1499,2024-05-28,Rascador,Accesorios,4,23.49,Cliente_34,Sevilla
